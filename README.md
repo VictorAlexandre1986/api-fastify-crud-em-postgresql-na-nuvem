@@ -1,5 +1,5 @@
 # api fastify crud
-Api utilizando o node e o micro-framework fastify, fazendo um crud em um banco de dados postgresql na nuvem
+Api utilizando o node e o micro-framework fastify, fazendo um crud em um banco de dados postgresql na nuvem "neon postgresql"
 
 ## Tecnologias utilizadas
 
